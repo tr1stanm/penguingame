@@ -1,0 +1,3 @@
+/Users/tristan/Desktop/stuff/code/sdl/game/build/CMakeFiles/game.dir
+/Users/tristan/Desktop/stuff/code/sdl/game/build/CMakeFiles/edit_cache.dir
+/Users/tristan/Desktop/stuff/code/sdl/game/build/CMakeFiles/rebuild_cache.dir

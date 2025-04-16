@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/tristan/Desktop/stuff/code/sdl/game/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -isystem /Library/Frameworks/SDL2_image.framework/Headers -isystem /Library/Frameworks/SDL2_mixer.framework/Headers -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -F /Library/Frameworks/ -F /Library/Frameworks/ -o CMakeFiles/game.dir/src/main.cpp.o -c /Users/tristan/Desktop/stuff/code/sdl/game/src/main.cpp",
+  "file": "/Users/tristan/Desktop/stuff/code/sdl/game/src/main.cpp",
+  "output": "CMakeFiles/game.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/tristan/Desktop/stuff/code/sdl/game/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -isystem /Library/Frameworks/SDL2_image.framework/Headers -isystem /Library/Frameworks/SDL2_mixer.framework/Headers -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -F /Library/Frameworks/ -F /Library/Frameworks/ -o CMakeFiles/game.dir/src/game.cpp.o -c /Users/tristan/Desktop/stuff/code/sdl/game/src/game.cpp",
+  "file": "/Users/tristan/Desktop/stuff/code/sdl/game/src/game.cpp",
+  "output": "CMakeFiles/game.dir/src/game.cpp.o"
+},
+{
+  "directory": "/Users/tristan/Desktop/stuff/code/sdl/game/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -isystem /Library/Frameworks/SDL2_image.framework/Headers -isystem /Library/Frameworks/SDL2_mixer.framework/Headers -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -F /Library/Frameworks/ -F /Library/Frameworks/ -o CMakeFiles/game.dir/src/texmanager.cpp.o -c /Users/tristan/Desktop/stuff/code/sdl/game/src/texmanager.cpp",
+  "file": "/Users/tristan/Desktop/stuff/code/sdl/game/src/texmanager.cpp",
+  "output": "CMakeFiles/game.dir/src/texmanager.cpp.o"
+},
+{
+  "directory": "/Users/tristan/Desktop/stuff/code/sdl/game/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -isystem /Library/Frameworks/SDL2_image.framework/Headers -isystem /Library/Frameworks/SDL2_mixer.framework/Headers -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -F /Library/Frameworks/ -F /Library/Frameworks/ -o CMakeFiles/game.dir/src/gameObject.cpp.o -c /Users/tristan/Desktop/stuff/code/sdl/game/src/gameObject.cpp",
+  "file": "/Users/tristan/Desktop/stuff/code/sdl/game/src/gameObject.cpp",
+  "output": "CMakeFiles/game.dir/src/gameObject.cpp.o"
+},
+{
+  "directory": "/Users/tristan/Desktop/stuff/code/sdl/game/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -isystem /Library/Frameworks/SDL2_image.framework/Headers -isystem /Library/Frameworks/SDL2_mixer.framework/Headers -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -F /Library/Frameworks/ -F /Library/Frameworks/ -o CMakeFiles/game.dir/src/map.cpp.o -c /Users/tristan/Desktop/stuff/code/sdl/game/src/map.cpp",
+  "file": "/Users/tristan/Desktop/stuff/code/sdl/game/src/map.cpp",
+  "output": "CMakeFiles/game.dir/src/map.cpp.o"
+}
+]
