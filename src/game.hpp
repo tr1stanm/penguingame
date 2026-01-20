@@ -1,4 +1,4 @@
-#include "SDL2_mixer/SDL_mixer.h"
+#include "SDL2/SDL_mixer.h"
 #include "SDL_video.h"
 #include "SDL_render.h"
 #pragma once

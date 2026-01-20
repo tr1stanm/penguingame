@@ -1,0 +1,3 @@
+/home/tristan/Desktop/code/penguingame/CMakeFiles/game.dir
+/home/tristan/Desktop/code/penguingame/CMakeFiles/edit_cache.dir
+/home/tristan/Desktop/code/penguingame/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/tristan/Desktop/code/penguingame",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/game.dir/src/main.cpp.o -c /home/tristan/Desktop/code/penguingame/src/main.cpp",
+  "file": "/home/tristan/Desktop/code/penguingame/src/main.cpp",
+  "output": "CMakeFiles/game.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/tristan/Desktop/code/penguingame",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/game.dir/src/game.cpp.o -c /home/tristan/Desktop/code/penguingame/src/game.cpp",
+  "file": "/home/tristan/Desktop/code/penguingame/src/game.cpp",
+  "output": "CMakeFiles/game.dir/src/game.cpp.o"
+},
+{
+  "directory": "/home/tristan/Desktop/code/penguingame",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/game.dir/src/texmanager.cpp.o -c /home/tristan/Desktop/code/penguingame/src/texmanager.cpp",
+  "file": "/home/tristan/Desktop/code/penguingame/src/texmanager.cpp",
+  "output": "CMakeFiles/game.dir/src/texmanager.cpp.o"
+},
+{
+  "directory": "/home/tristan/Desktop/code/penguingame",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/game.dir/src/gameObject.cpp.o -c /home/tristan/Desktop/code/penguingame/src/gameObject.cpp",
+  "file": "/home/tristan/Desktop/code/penguingame/src/gameObject.cpp",
+  "output": "CMakeFiles/game.dir/src/gameObject.cpp.o"
+},
+{
+  "directory": "/home/tristan/Desktop/code/penguingame",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/game.dir/src/map.cpp.o -c /home/tristan/Desktop/code/penguingame/src/map.cpp",
+  "file": "/home/tristan/Desktop/code/penguingame/src/map.cpp",
+  "output": "CMakeFiles/game.dir/src/map.cpp.o"
+}
+]
